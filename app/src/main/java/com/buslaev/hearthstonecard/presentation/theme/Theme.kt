@@ -1,4 +1,4 @@
-package com.buslaev.hearthstonecard.ui.theme
+package com.buslaev.hearthstonecard.presentation.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
